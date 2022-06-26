@@ -1,0 +1,12 @@
+E:\Projects\csharp\KekBase\KekBase\bin\Debug\net6.0\KekBase.deps.json
+E:\Projects\csharp\KekBase\KekBase\bin\Debug\net6.0\KekBase.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Debug\net6.0\KekBase.pdb
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.csproj.AssemblyReference.cache
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.AssemblyInfoInputs.cache
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.AssemblyInfo.cs
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.csproj.CoreCompileInputs.cache
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.dll
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\refint\KekBase.dll
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\KekBase.pdb
+E:\Projects\csharp\KekBase\KekBase\obj\Debug\net6.0\ref\KekBase.dll

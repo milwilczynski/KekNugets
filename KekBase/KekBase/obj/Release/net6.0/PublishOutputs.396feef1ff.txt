@@ -1,0 +1,17 @@
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\KekBase.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\KekBase.deps.json
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\KekBase.pdb
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Autofac.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Autofac.Extensions.DependencyInjection.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.AspNetCore.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Enrichers.Thread.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Enrichers.WithCaller.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Extensions.Hosting.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Extensions.Logging.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Formatting.Compact.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Settings.Configuration.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Sinks.Console.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Sinks.Debug.dll
+E:\Projects\csharp\KekBase\KekBase\bin\Release\net6.0\publish\Serilog.Sinks.File.dll
